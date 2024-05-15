@@ -1,0 +1,10 @@
+{
+    "nombre": "API Rest Express - NodeJs - PostgreSQL",
+    "configDB": {
+        "HOST": "localhost"
+    },
+    "configToken": {
+        "SEED": "secret",
+        "expiration": "24h"
+    }
+}
